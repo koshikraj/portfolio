@@ -2,7 +2,7 @@ remote_theme: koshikraj/portfolio-theme  # Don't touch ( required for this theme
 
 # Edit your preferences below
 title: Koshik Raj
-subtitle: Blockchain - Author | Speaker | Enterpreneur | Evalngelist
+subtitle: Blockchain - Author | Speaker | Enterpreneur | Evangelist
 description: >- # this means to ignore newlines until "baseurl:"
 
 url: "https://koshikraj.com" # the base hostname & protocol for your site, e.g. https://example.github.io
