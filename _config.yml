@@ -27,7 +27,7 @@ urls:
 
 author_logo: profile.png
 author: Koshik Raj
-author_bio: Hello there, not to boast, but I'am clear logical thinker. I design algorithms for every problem in my life unknowingly. I speak, read, write and build on decentralized protocols. I like to solve lot of puzzles (Yeah! I'am a speed cuber as well) and learn new technologies. <a href="https://portfolio.koshikraj.com">Read More</a>.
+author_bio: Hello there. I'm one of those curious souls. I love to spend my free time watching/ reading/ listening to anything interesting. I have been pasionately researching on decentralized technologies from last few years. <a href="https://portfolio.koshikraj.com">Read More</a>.
 author_email: "koshik@consensolabs.com"
 author_location: Bangalore, India
 author_website_url: "https://koshikraj.com"
@@ -35,7 +35,7 @@ author_skills: ["Public Speaking", "Computer networks", "Python", "Java", "React
 
 author_work_experiences:
             - company_name: Consenso Labs
-              company_logo: company4.jpeg
+              company_logo: company5.png
               company_url: https://consensolabs.com
               designation: Co-Founder, Lead Developer
               description: Founded a blockchain research lab where we solve some of the financial and open economics use cases through Enterprise and public DLT protocols
@@ -74,6 +74,11 @@ author_education_details:
                 visibility: true
 
 author_project_details:
+              - project_thumbnail: arbchain.png
+                project_title: Lead Developer/Architect - Arbchain
+                project_description: DLT based platform that brings all the benefits of the decentralization to solve inefficiencies in the arbitration.
+                project_url: https://arbchain.consensolabs.com
+                visibility: true
               - project_thumbnail: syndlend.jpeg
                 project_title: Lead Developer/Architect - SyndLend
                 project_description: DLT based syndicated loan platform to create a speedy, cost efficient, transparent, dis-intermediated, yet compliant system.
